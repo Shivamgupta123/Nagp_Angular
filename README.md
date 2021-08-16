@@ -1,1 +1,0 @@
-# Nagp_Angular
